@@ -1,0 +1,16 @@
+boto3
+regex
+botocore==1.19.48
+numpy==1.16.4
+lmdb==0.94
+tensorboardX==1.8
+tensorpack==0.9.4
+tqdm==4.31.1
+easydict==1.9
+PyYAML==5.1.2
+json-lines==0.5.0
+Cython
+msgpack
+msgpack-numpy
+mem_top
+torch>=1.6
