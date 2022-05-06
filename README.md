@@ -9,7 +9,7 @@ Capture论文名：《'Product1M: Towards Weakly Supervised Instance-Level Produ
 
 # 使用
 
-请先下载FastRCNN模型[faster_rcnn_from_caffe_attr.pkl](https://drive.google.com/file/d/1NxQumuFWULtnWRGo4p6LtQ1YB2mzdwCu/view?usp=sharing)放到Capture_open/bp_feature文件夹下，下载Capture模型[pytorch_model_8.bin]()放到Capture_open/Capture文件夹下。
+请先下载FastRCNN模型[faster_rcnn_from_caffe_attr.pkl](https://drive.google.com/file/d/1NxQumuFWULtnWRGo4p6LtQ1YB2mzdwCu/view?usp=sharing)放到Capture_open/bp_feature文件夹下，下载Capture模型[pytorch_model_8.bin](https://drive.google.com/file/d/1DtYiSQ1fPP1aBGsmIKjz88w1bUcwaTYM/view?usp=sharing)放到Capture_open/Capture文件夹下。
 
 Capture商品多模态表征提取主要分为三个步骤：step0:预训练 step1.基于detectron2对商品图片进行主体特征抽取 step2.综合商品主图+标题进行商品表征抽取
 ## setp0: 预训练
