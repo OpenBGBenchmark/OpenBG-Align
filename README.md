@@ -1,5 +1,5 @@
 # OpenBG-Align
-"CCKS2022 面向数字商务的知识图谱评测任务二：基于知识图谱的商品同款挖掘"基线方法
+"CCKS2022 [面向数字商务的知识图谱评测任务二：基于知识图谱的商品同款挖掘](https://tianchi.aliyun.com/competition/entrance/531956/introduction)"基线方法
 
 # 说明
 该仓库主要提供了基于预训练多模态模型CAPTURE进行商品多模态表征抽取，并进行同款挖掘的方法
